@@ -1,4 +1,15 @@
-.banner{
-    text-align: center;
+* {
+    margin: 0px;
 }
+
+.banner{
+    display: flex;
+    justify-content: center;
+}
+
+.banner img {
+    width: 96rem;
+    height: 35rem;
+}
+
 
